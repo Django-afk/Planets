@@ -7,5 +7,4 @@ Jupiter
 Saturn
 Uranus
 Neptune
-Pluto
-
+Pluto2
