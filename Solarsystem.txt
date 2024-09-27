@@ -3,3 +3,6 @@ Mars
 Earth
 Jupiter
 Sonne
+Sun
+Moon
+Saturn
