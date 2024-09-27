@@ -2,3 +2,5 @@ Merkur
 Mars
 Earth
 Jupiter
+Sun
+Moon
