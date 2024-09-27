@@ -4,5 +4,6 @@ Earth
 Jupiter
 Sonne
 Sun
+Earth
 Moon
 Saturn
